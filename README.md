@@ -2,7 +2,7 @@
 - 👀 I’m interested in FileMaker
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on FileMaker
-- 📫 How to reach me [here](pineapple.gr/contact)
+- 📫 Reach me [here](https://pineapple.gr/contact)
 
 <!---
 stathisaska/stathisaska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
